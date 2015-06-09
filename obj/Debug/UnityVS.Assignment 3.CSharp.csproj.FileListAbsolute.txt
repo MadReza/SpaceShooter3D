@@ -1,0 +1,13 @@
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\Assembly-CSharp.pdb
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEditor.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEngine.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEngine.xml
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEditor.xml
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEngine.UI.xml
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\Temp\UnityVS_bin\Debug\UnityEditor.iOS.Extensions.Xcode.xml
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\obj\Debug\UnityVS.Assignment 3.CSharp.csprojResolveAssemblyReference.cache
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\obj\Debug\Assembly-CSharp.dll
+C:\Users\Reza\Documents\School\Comp 376\Assignment 3\obj\Debug\Assembly-CSharp.pdb
